@@ -40,7 +40,7 @@ print(ob1 < ob2)
 
 ```
 ## Output
-![Uploading image.png…]()
+<img width="1606" height="557" alt="image" src="https://github.com/user-attachments/assets/58454c14-2286-40f1-b401-eccea0917037" />
 
 ## Result
 Thus To write a Python program that demonstrates operator overloading by overloading the less than (<) operator using a custom class. Hence the code has been executed successfully.
